@@ -1414,20 +1414,6 @@
 		"Case ON/OFF": " "
 	},
 	{
-		"Make": "Make",
-		"Boiler Manual ": "Boiler Manual ",
-		"Model": "Model",
-		"GC No.": "GC No.",
-		"Nominal Heat input (kW/h)": "Nominal Heat input (kW/h)",
-		"Heat input + 5%": "Heat input + 5%",
-		"Heat input - 10%": "Heat input - 10%",
-		"Max CO2 %": "Max CO2 %",
-		"Min CO2 %": "Min CO2 %",
-		"Max Ratio": "Max Ratio",
-		"Max PPM": "Max PPM",
-		"Case ON/OFF": "Case ON/OFF"
-	},
-	{
 		"Make": "Worcester",
 		"Boiler Manual ": "Worcester Greenstar 9i System Erp",
 		"Model": "Greenstar 9i System ErP",
@@ -2380,20 +2366,6 @@
 		"Case ON/OFF": " "
 	},
 	{
-		"Make": "Make",
-		"Boiler Manual ": "Boiler Manual ",
-		"Model": "Model",
-		"GC No.": "GC No.",
-		"Nominal Heat input (kW/h)": "Nominal Heat input (kW/h)",
-		"Heat input + 5%": "Heat input + 5%",
-		"Heat input - 10%": "Heat input - 10%",
-		"Max CO2 %": "Max CO2 %",
-		"Min CO2 %": "Min CO2 %",
-		"Max Ratio": "Max Ratio",
-		"Max PPM": "Max PPM",
-		"Case ON/OFF": "Case ON/OFF"
-	},
-	{
 		"Make": "Baxi",
 		"Boiler Manual ": "Baxi Duo-tec 24 Combi ErP",
 		"Model": "Duo-tec 24 Combi ErP ",
@@ -3204,20 +3176,6 @@
 		"Max Ratio": "General",
 		"Max PPM": " ",
 		"Case ON/OFF": " "
-	},
-	{
-		"Make": "Make",
-		"Boiler Manual ": "Boiler Manual ",
-		"Model": "Model",
-		"GC No.": "GC No.",
-		"Nominal Heat input (kW/h)": "Nominal Heat input (kW/h)",
-		"Heat input + 5%": "Heat input + 5%",
-		"Heat input - 10%": "Heat input - 10%",
-		"Max CO2 %": "Max CO2 %",
-		"Min CO2 %": "Min CO2 %",
-		"Max Ratio": "Max Ratio",
-		"Max PPM": "Max PPM",
-		"Case ON/OFF": "Case ON/OFF"
 	},
 	{
 		"Make": "Glow worm",
@@ -4242,20 +4200,6 @@
 		"Case ON/OFF": " "
 	},
 	{
-		"Make": "Make",
-		"Boiler Manual ": "Boiler Manual ",
-		"Model": "Model",
-		"GC No.": "GC No.",
-		"Nominal Heat input (kW/h)": "Nominal Heat input (kW/h)",
-		"Heat input + 5%": "Heat input + 5%",
-		"Heat input - 10%": "Heat input - 10%",
-		"Max CO2 %": "Max CO2 %",
-		"Min CO2 %": "Min CO2 %",
-		"Max Ratio": "Max Ratio",
-		"Max PPM": "Max PPM",
-		"Case ON/OFF": "Case ON/OFF"
-	},
-	{
 		"Make": "Ideal",
 		"Boiler Manual ": "Ideal Classic HE9",
 		"Model": "Classic HE9",
@@ -4786,8 +4730,5 @@
 		"Max Ratio": "General",
 		"Max PPM": " ",
 		"Case ON/OFF": " "
-	},
-	{
-		"Make": ""
 	}
 ]
